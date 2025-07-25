@@ -117,6 +117,6 @@ This project is licensed under the terms of the `MIT` license. See [LICENSE](LIC
 }
 ```
 
-## Credits
+## Credits...
 
 This project was generated with [`python-package-template`](https://github.com/TezRomacH/python-package-template).
